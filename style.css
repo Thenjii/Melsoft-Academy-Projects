@@ -1,11 +1,4 @@
-h1{
-    color: blue;
-}
-
-body{
-
-    background-color: black;
-    // <uniquifier>: Use a unique and descriptive class name
+// <uniquifier>: Use a unique and descriptive class name
 
 .danfo-<uniquifier> {
   font-family: "Danfo", serif;
@@ -16,4 +9,3 @@ body{
     "ELSH" 0;
 }
   
-}

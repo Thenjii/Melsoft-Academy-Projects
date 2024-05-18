@@ -1,6 +1,6 @@
-// <uniquifier>: Use a unique and descriptive class name
+@import url('https://fonts.googleapis.com/css2?family=Danfo&display=swap');
 
-.danfo-<uniquifier> {
+body {
   font-family: "Danfo", serif;
   font-optical-sizing: auto;
   font-weight: 400;

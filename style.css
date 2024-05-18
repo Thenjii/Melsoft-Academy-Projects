@@ -20,22 +20,24 @@ body{
 }
 
 button{
-    background-color: white
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  font-family: "Exo 2", sans-serif;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    font-family: "Exo 2", sans-serif;
   
 }
 
 a{
     color: palevioletred;
+    text-decoration: none;
+}
+
+a:hover{
+    color: black;
 }
 
 .box-1{
-    
+    margin: 200px;
 }

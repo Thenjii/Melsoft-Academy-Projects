@@ -1,6 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Danfo&family=Freeman&display=swap');
 h1 {
-    font-family: "Caveat", cursive, ;
+    font-family: "Caveat", cursive, sans-serif;
   font-size: 48px;
   font-weight: 400;
+  color: darkcyan;
+}
+
+p{
+    font-family: "Exo 2", sans-serif;
+    color: rgb(255, 255, 255);
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+
+}
+
+body{
+    background-color: black;
 }

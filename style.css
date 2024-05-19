@@ -17,7 +17,7 @@ h1 {
     font-family: "Caveat", cursive, sans-serif;
     font-size: 100px;
     font-weight: 400;
-    color: darkcyan;
+    color: rgb(0, 7, 7);
 }
 
 h1:hover{

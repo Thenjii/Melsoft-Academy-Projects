@@ -17,7 +17,7 @@ h1 {
     font-family: "Caveat", cursive, sans-serif;
     font-size: 100px;
     font-weight: 400;
-    color: rgb(0, 7, 7);
+    color: darkcyan;
 }
 
 h1:hover{
@@ -72,9 +72,7 @@ a:hover{
 } 
 
 .sliding-background { 
-    background: url( 
-"")  
-    repeat-x; 
+    background: url("images/IMG_20240510_194415_471.jpg") repeat-x; 
     height: 961px; 
     width: 6000px; 
     animation: slide 60s linear infinite; 

@@ -67,24 +67,13 @@ a:hover{
     color: black;
 }
 
-.wrapper { 
-    overflow: hidden; 
-} 
-
-.sliding-background { 
-    background: url("images/IMG_20240510_194415_471.jpg") repeat-x; 
-    height: 961px; 
-    width: 6000px; 
-    animation: slide 60s linear infinite; 
-} 
-
-@keyframes slide { 
-    0% { 
-        transform: translate3d(0, 0, 0); 
-    } 
-
-    100% { 
-        transform: translate3d(-2000px, 0, 0); 
-    } 
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }  } 
 } 
 

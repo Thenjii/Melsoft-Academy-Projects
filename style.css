@@ -3,12 +3,7 @@
     margin: auto;
 }
 
-div.container {
-    text-align: center;
-  }
-
-  
-  ul.myUL {
+ul.myUL {
     display: inline-block;
     text-align: left;
   }
